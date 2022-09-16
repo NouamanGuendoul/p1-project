@@ -1,0 +1,48 @@
+h1 {
+    color: purple ;
+    font: 24px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+   
+
+    
+    
+
+h2{
+    color:#0000ff ;
+    font-weight: bold;
+    font: 20px;
+}
+   
+h3{
+    color: teal;
+    font: 16px;
+    font-weight: bold;
+
+}
+
+p{
+    border: 2px solid rgb(217, 228, 229);
+    border-radius: 25px;
+   
+}
+a{
+    color: #8A2BE2;
+    text-decoration: none;
+}
+
+header {
+      color:red ; 
+   background-image:  url(/img/gameninfo-demo-014-1024x683.jpg);
+   font-weight: bold;
+   background-repeat:  repeat x;
+     
+   }
+
+   img{
+    width: 50vw;
+   }
+
+   
