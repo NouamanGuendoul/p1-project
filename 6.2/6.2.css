@@ -1,0 +1,43 @@
+.yourmom{
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: row-reverse;
+
+}
+.block1{
+    display: flex; 
+    justify-content: center;
+align-items: center ;
+    border: solid;
+    border-radius: 5px;
+    background-color:  blue;
+    width: 200px;
+    height: 200px;
+}
+
+
+.p2{
+    border: solid;
+    border-radius: 5px;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.p3{
+    border: solid;
+    border-radius: 5px;
+    background-color:  red;
+    width: 200px;
+    height: 200px;
+}
+
+.p4{
+    border: solid;
+    border-radius: 5px;
+    background-color:  green;
+    width: 200px;
+    height: 200px;
+}
+
+
