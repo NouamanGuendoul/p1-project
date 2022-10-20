@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Frrgb(85, 84, 84)n Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(86, 86, 86);
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+nav{
+    height: 75px;
+    border: solid;
+    border-radius: 15px;
+    border: 10px;
+    background-color: rgb(43, 43, 43);
+    height: 75px;
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+  }
+  
+ul {
+  
+  list-style: none;
+  display: flex ;
+  position: relative	;
+  top: 24px;
+  left: 200px;
+  }
+
+  
+  
+a:hover{
+    padding-top: 50px;
+    color: rgb(77, 182, 186);
+  }
+
+  
+a{
+    font-size: large;
+    text-decoration: none;
+    color: rgb(255, 249, 249);
+    position: relative ;
+    bottom: 45px;
+    right: 95px;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+  
+
+   table, th, td {
+    border: 1px solid black;
+   }
+  
+.dad {
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top: 20px;
+    left: 15px;
+   }
+
+.broer {
+  color: whitesmoke;
+     position: relative;
+     text-align: center;
+   }
+
+   
+.table{
+ position: relative;
+ top: 150px;
+ left: 900px;
+ color: white;
+ 
+}
+
+
+.Examenplan {
+  border: solid;
+  border-radius: 15px;
+  background-color: lightslategray;
+  float: left;
+  position:relative; 
+  bottom: 90px;
+  width: px;
+}
+

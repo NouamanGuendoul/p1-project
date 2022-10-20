@@ -1,0 +1,98 @@
+body{
+  margin: 0px;
+  background-color: rgb(86, 86, 86);
+  overflow-x: hidden;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header h1{
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 600px;
+}
+.h2{
+  color: white;
+ position: relative;
+ top: 20px;
+ padding-left: 60px;
+ font-weight: bold;
+ 
+}
+
+.h1  {
+  color: white;
+
+}
+
+
+
+
+
+nav{
+  border: solid;
+  border-radius: 15px;
+  border: 10px;
+  background-color: black;
+  height: 75px;
+  position: sticky;
+  top: 0%;
+  z-index: 1;
+}
+
+
+
+
+ul {
+
+list-style: none;
+display: flex ;
+position: relative	;
+top: 24px;
+left: 200px;
+}
+
+a:hover{
+  padding-top: 50px;
+  color: cadetblue;
+}
+ a{
+   font-size: large;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  position: relative ;
+   bottom: 45px;
+  padding: 17px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+.beroep {
+  color: aqua;
+}
+
+.opleiding {
+  color: blue;
+}
+
+.OW {
+  position: relative;
+  top: 10px;
+  border: solid;
+  border-radius: 15px;
+  background-color:rgb(45, 55, 65);
+  float: left;
+  width: 700px;
+  color: rgb(255, 255, 255);
+  border-color: black;
+}
+
+
+.OP {
+ border-color: rgb(45, 45, 45);
+  border: solid;
+  border-radius: 15px;
+  position: relative;
+  left: 60px;
+  top: 150px;
+  width: 700px;
+  height: 600px;
+  border-color: gray;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="achtergrond.css">
+</head>
+<body> 
+    <nav>
+   
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="ce.html">Canvas & eduarte </a></li>
+        <li><a href="begeleiding.html">De software & De begeleiding</a></li>
+        <li><a href="ew.html">Het examenplan & De weken</a></li>                                   
+        <li><a href="bsa.html">Het bindend studie advies</a></li>
+    </ul>
+</nav>
+<main>
+    <header><h1>Achtergrond Informatie</h1></header>
+    <br><br><br>
+   
+  <section>
+<h2 class="h2T">Tuncay</h2><br>	
+<p class="Tuncay">Ik ben Tuncay ik ben 16jaar oud en zit op het Techniek College Rotterdam. <br>
+    Ik doe de opleiding Software Develepor in het 1ste jaar. <br>
+    Mijn hobby's zijn naar buiten gaan en gamen met vrienden. <br>
+    De opleiding Software Develepor lijkt me wel leuk  <br>
+    Omdat je alles zelf kan bedenken met hoe het eruit komt te zien.
+</p>
+    </section>
+    <br> <br> <br>
+   <section>
+        <h2 class="h2N">Nouaman</h2>
+        <p class="Nouaman">Ik ben Nouaman Guendoul ik ben 17-jaar. <br>
+        Ik zit op de techniek College Rotterdam de locatie janligthartstraat 250. <br>
+        De opleiding die ik daar doe heet Software Develepor ik zit in het eerste jaar. <br>
+        De hobby's die ik heb is gamen en voetballen. <br>
+        De opleiding Software Develepor vind ik wel een leuke opleiding want je hebt ruimte voor creativiteit.
+     </p>
+    </section>
+
+</main>
+</body>
+</html>

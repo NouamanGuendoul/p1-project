@@ -1,0 +1,79 @@
+*{
+
+  margin: 0px;
+  padding:  0px;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(86, 86, 86);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header h1{
+  text-align: center;
+  color: #fff;
+}
+h3{
+  text-align: center;
+  color: #fff;
+}
+header{
+
+border-radius: 5px;
+background-color: rgb(75, 74, 74);
+height: 15vh;
+}
+  
+aside {
+  border: solid;
+  border-radius : 15px;
+  height: 700px;
+  width: 50vh ;
+  background-color: rgb(0, 0, 0);
+  border-color: #fff;
+  line-height: 65px;
+  
+}
+
+a{
+  font-size: large;
+  display: block;
+  color:white;
+  border-radius: 5px;
+  width: 50vh;
+  text-decoration: none;
+  line-height: 70px;
+  font-size: 20px;
+  padding-left: 40px;
+  box-sizing: border-box;
+  border-top: 1px solid rgb(255, 255, 255.1);
+  transition: .4;
+  }
+
+aside h2{
+  
+  color: #fff;
+  text-align: center;
+  border: solid;
+border-radius: 10px;
+  border-color: black;
+  background-color: black;
+}
+
+ul li:hover a{
+  padding-left: 50px;
+  color: darkblue;
+  background-color: whitesmoke;
+ transition: .4s;
+}
+
+
+
+body{
+  background-image: url(/ouderavond-project-main/img/logo-techniek-college.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: rgb(50, 49, 49);
+ }
+
+
