@@ -74,6 +74,20 @@ padding-left: 80px;
     width: 600px;
    } 
 
+.bsa2 {
+  background-color:lightslategray;
+  border: solid;
+  border-radius: 15px;
+  border-color: lightslategray;
+  position: relative;
+  bottom: 175px;
+  width: 600px;
+}
+
+.locatiegids {
+  color: white;
+}
+
    p{
     color: #fff;
    }

@@ -10,6 +10,8 @@ h1{
  color: white;
   }
   
+
+
  header{ 
  box-sizing: border-box;
 bottom: 22px;
@@ -67,6 +69,7 @@ a:hover{
   background-color: lightslategray;
   float: left;
   width: 700px;
+  color: white;
  }
 
  .desoftware {
@@ -77,6 +80,8 @@ a:hover{
   background-color: lightslategray;
   float: left;
   width: 700px;
+  padding-left: 10px ;
+  color: white;
  }
 
  .imgsoftware {

@@ -61,7 +61,7 @@ a:hover{
   position:relative; 
   bottom: 250px;
   width: 700px;
-  
+  color: white
  }
 
  .CanvasSection {
@@ -72,6 +72,7 @@ a:hover{
   background-color: lightslategray;
   float: left;
   width: 700px;
+  color: white;
  }
 
  h1{

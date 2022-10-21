@@ -10,6 +10,8 @@ body{
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  background-color: rgb(86, 86, 86);
  overflow-x: hidden;
+ background-image: url(/ouderavond-project-main/img/Pakistani-Gamers-Want-a-Seat-at-the-Table-Culture-shutterstock_1949862841.webp);
+ background-repeat: no-repeat;
 }
 header{
   color: azure;
@@ -58,24 +60,20 @@ a:hover{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
 
- .Nouaman {
+ 
+
+ .Tuncay , .Nouaman {
+  text-align: center;
   border: solid;
   border-radius: 15px;
   background-color: lightslategray;
-  width: 700px;
-  display: flex;
-  justify-content: center;
+  width: 500px;
  }
 
- .Tuncay {
-  position: relative;
-
-  border: solid;
-  border-radius: 15px;
-  background-color: lightslategray;
-  
-  width: 700px;
- }
+section {
+ display: flex;
+ justify-content: center;
+}
 
  h1{
   position: relative;
@@ -98,3 +96,10 @@ a:hover{
   top: 190px;
   width: 700px;
   }
+
+.h2T , .h2N{
+  color: rgb(195, 195, 195);
+  display: flex;
+  justify-content: center;
+}
+

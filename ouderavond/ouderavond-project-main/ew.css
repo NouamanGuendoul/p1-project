@@ -1,10 +1,12 @@
 body{
   margin: 0;
   padding: 0;
-  font-family: 'Frrgb(85, 84, 84)n Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: rgb(86, 86, 86);
   overflow-y: hidden;
   overflow-x: hidden;
+
+  
 }
 
 nav{
@@ -87,3 +89,10 @@ a{
   width: px;
 }
 
+p{
+  color: white;
+}
+
+h2{
+  color:#fff;
+}

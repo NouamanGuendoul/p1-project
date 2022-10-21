@@ -77,7 +77,7 @@ a:hover{
   top: 10px;
   border: solid;
   border-radius: 15px;
-  background-color:rgb(45, 55, 65);
+  background-color:lightslategray;
   float: left;
   width: 700px;
   color: rgb(255, 255, 255);
@@ -86,7 +86,7 @@ a:hover{
 
 
 .OP {
- border-color: rgb(45, 45, 45);
+ border-color: lightslategray;
   border: solid;
   border-radius: 15px;
   position: relative;
