@@ -43,11 +43,11 @@ nav{
 
 ul {
 
-list-style: none;
-display: flex ;
-position: relative	;
-top: 24px;
-left: 200px;
+  list-style: none;
+  display: flex ;
+  position: relative	;
+  top: 24px;
+  left: 150px;
 }
 
 a:hover{
@@ -55,7 +55,7 @@ a:hover{
   color: cadetblue;
 }
  a{
-   font-size: large;
+  
   text-decoration: none;
   color: rgb(255, 255, 255);
   position: relative ;

@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding-left: 0px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   overflow-x: hidden;
+  overflow-x: hidden;
    background-color: rgb(86, 86, 86);
    
   }
@@ -44,7 +44,8 @@ list-style: none;
 display: flex ;
 position: relative	;
 top: 24px;
-left: 200px;
+left: 150px;
+
 }
 
 a:hover{
@@ -52,7 +53,7 @@ a:hover{
   color: cadetblue;
 }
  a{
-    font-size: large;
+    
   text-decoration: none;
   color: rgb(255, 255, 255);
   position: relative ;
